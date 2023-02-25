@@ -1,0 +1,6 @@
+Favorite Meal: pizza, sushi, pasta
+Favorite Country: Italy, Japan, Spain
+Favorite Hobby: reading, cooking, traveling
+Favorite Film: The Lord of the Rings
+Favorite Book: To Kill a Mockingbird by Harper Lee
+

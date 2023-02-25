@@ -1,0 +1,3 @@
+English
+Jira
+Manual testing
