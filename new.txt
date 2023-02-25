@@ -1,0 +1,4 @@
+Name: Yulia
+Age: 35
+Pets: 1
+Salary: 500
