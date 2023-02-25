@@ -1,0 +1,21 @@
+Title: Login page not functioning properly
+Summary: When attempting to login to the application, the login page fails to load properly, resulting in an error message.
+Steps to Reproduce:
+Open the application.
+Click on the Login button on the homepage.
+Enter valid login.
+Click on the "Login" button.
+Observe that the login page fails to load properly and an error message is displayed.
+Expected Result: The login page should load properly, and the user should be able to access the system.
+Actual Result: The login page fails to load properly, and an error message is displayed, preventing access to the system.
+Severity: High
+Priority: High
+Environment:
+Operating System: Windows 10
+Browser: Google Chrome
+Application Version: 2.3.4
+Additional Information:
+Screenshot of the error message attached.
+This issue has been replicated consistently on multiple machines.
+Attachments:
+Screenshot of the error message.
